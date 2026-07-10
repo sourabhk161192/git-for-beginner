@@ -1,5 +1,5 @@
 Welcome to myproject
 
-Author : sourabh
+Author : sourabh jagannath kulkarni
 
 Twitter : @sourabhk16
